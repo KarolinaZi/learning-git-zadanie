@@ -2,6 +2,7 @@ shopping2 = {
 "nabial": ["ser","mleko"],
 "kiosk": ["gazeta","bilety"]
 "drogeria": ["mydlo","pasta do zebow"]
+"zoologiczny": ["karma dla kota","zwirek"]
 }
 Ilosc = 0
 
@@ -17,7 +18,6 @@ linia += (f"W sumie kupuję {Ilosc} produktów")
 
 print(linia)
 print("Drogeria added")
-print("Add 3rd branch")
-print ("Add new branch in Learning Git project-second try")
-print ("hello")
+print("Commit1:Add zoologiczny")
+
 
